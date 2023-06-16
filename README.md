@@ -16,9 +16,12 @@
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Jayvee+Navarro+Mapote%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22email%22%3A+%22mapotej%40acm.org%22%7D)](https://git.io/typing-svg)
 
-## Few Facts About Me
+## Freelancing Services
 
-- 👨‍💻 Nothing, this is a stolen template
+- mag ayos nang Aircon, Ref, Electricfan, Tv, etc.
+- Hack nang facebook kapag nalimutan mo password.
+- Rice to electronics Mastery (Level 3)
+- Motivational Scammer
 
 <p>&nbsp;</p>
 
