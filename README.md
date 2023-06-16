@@ -18,7 +18,7 @@
 
 ## Freelancing Services
 
-- mag ayos nang Aircon, Ref, Electricfan, Tv, etc.
+- Mag ayos nang Aircon, Ref, Electricfan, Tv, etc.
 - Hack nang facebook kapag nalimutan mo password.
 - Rice to electronics Mastery (Level 3)
 - Motivational Scammer
