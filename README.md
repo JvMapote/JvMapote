@@ -25,6 +25,10 @@
 
 <p>&nbsp;</p>
 
+<div align="center">
+  <img alt="snake eating my contribution" src="https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake-dark.svg">
+</div>
+
 ## Techs I Work With
 
 ![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
