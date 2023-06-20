@@ -16,17 +16,20 @@
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Jayvee+Navarro+Mapote%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22email%22%3A+%22mapotej%40acm.org%22%7D)](https://git.io/typing-svg)
 
-
 <p>&nbsp;</p>
 
 ## Github Contributions
 ![snake gif](https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake.svg)
+
+<p>&nbsp;</p>
 
 ## Micro-Controllers/Computers
 
 ![Rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 <!-- + - ![]()+ -->
+
+<p>&nbsp;</p>
 
 ## Programming Languages
 
