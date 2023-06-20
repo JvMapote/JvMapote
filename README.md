@@ -124,7 +124,7 @@
 - Mag ayos nang Aircon, Ref, Electricfan, Tv, etc.
 - Hack nang facebook kapag nalimutan mo password.
 - Rice to electronics Mastery (Level 3)
-- Motivational Scammer
+- Demotivational Speaker
 
 <p>&nbsp;</p>
 
