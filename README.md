@@ -23,7 +23,7 @@
 
 <p>&nbsp;</p>
 
-## Micro-Controllers/Computers
+## Hardware
 
 ![Rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D.svg?style=for-the-badge&logo=Arduino&logoColor=white)
