@@ -121,7 +121,7 @@
 
 ## Freelancing Services
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&width=435&lines=Mag+ayos+nang+Aircon%2C+Ref%2C+Electricfan%2C+Tv%2C+etc.;Hack+nang+facebook+kapag+nalimutan+mo+password.;Rice+to+electronics+Mastery+(Level+3);Demotivational+Speaker)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Mag+ayos+nang+Aircon%2C+Ref%2C+Electricfan%2C+Tv%2C+etc.;Hack+nang+facebook+kapag+nalimutan+mo+password.;Rice+to+electronics+Mastery+(Level+3);Demotivational+Speaker)](https://git.io/typing-svg)
 
 <p>&nbsp;</p>
 
