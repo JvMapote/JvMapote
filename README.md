@@ -14,7 +14,7 @@
 <p>&nbsp;</p>
 
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Jayvee+Navarro+Mapote%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22email%22%3A+%22mapotej%40acm.org%22%7D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22name%22%3A+%22Jayvee+Navarro+Mapote%22%7D;%7B%22description%22%3A+%22Full-stack+Developer%22%7D;%7B%22Studying%22%3A+%22Computerj%40Engineering%22%7D)](https://git.io/typing-svg)
 
 <p>&nbsp;</p>
 
