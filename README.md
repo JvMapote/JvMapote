@@ -29,6 +29,30 @@
 
 <p>&nbsp;</p>
 
+## About Me
+
+```python
+name = "Jayvee N. Mapote"
+located_in = "Manila"
+from_location = "Philippines"
+job = "Robotics Software Engineer (UAV Swarms)"
+education = ["Bachelor's in Computer Engineering", "Diploma in Information and Communication Technologies"]
+organization = "Mapúa Malayan Colleges Laguna Association for Computing Machinery Student Chapter"
+leadership_experiences = [
+    ["Executive President", "Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2022-2023"],
+    ["Executive Secretary", "Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2021-2022"],
+    ["Research and Development Committee Chair", "Junior Association for Computing Machinery", "2019-2020"]
+]
+fields_of_interests = ["Embedded Systems", "Computer Architecture", "Digital Systems Design", "Computer Vision",
+                       "Artificial Intelligence", "Machine Learning", "Data Science"]
+technical_background = ["Project Management", "Communication", "Operating Systems", "Network", "Software Engineering"]
+currently_learning = ["Cybersecurity", "Crypto", "Aerial Robotics"]
+will_learn = ["Web3"]
+hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"]
+```
+
+<p>&nbsp;</p>
+
 ## Embedded Hardware
 
 ![Rpi](https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
@@ -125,29 +149,7 @@
 
 <p>&nbsp;</p>
 
-## About Me
 
-```python
-name = "Jayvee N. Mapote"
-located_in = "Manila"
-from_location = "Philippines"
-job = "Robotics Software Engineer (UAV Swarms)"
-education = ["Bachelor's in Computer Engineering", "Diploma in Information and Communication Technologies"]
-organization = "Mapúa Malayan Colleges Laguna Association for Computing Machinery Student Chapter"
-leadership_experiences = [
-    ["Executive President", "Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2022-2023"],
-    ["Executive Secretary", "Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2021-2022"],
-    ["Research and Development Committee Chair", "Junior Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2019-2020"]
-]
-fields_of_interests = ["Embedded Systems", "Computer Architecture", "Digital Systems Design", "Computer Vision",
-                       "Artificial Intelligence", "Machine Learning", "Data Science"]
-technical_background = ["Project Management", "Communication", "Operating Systems", "Network", "Software Engineering"]
-currently_learning = ["Cybersecurity", "Crypto", "Aerial Robotics"]
-will_learn = ["Web3"]
-hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"]
-```
-
-<p>&nbsp;</p>
 
 
 
