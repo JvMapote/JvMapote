@@ -23,7 +23,8 @@
 ![snake gif](https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake.svg)
 
 ## Programming Languages
-https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 
 <p>&nbsp;</p>
 
