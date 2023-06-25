@@ -35,7 +35,6 @@
 name = "Jayvee N. Mapote"
 located_in = "Manila"
 from_location = "Philippines"
-job = "Independent Fullstack Developer"
 education = ["Bachelor's in Computer Engineering", "Diploma in Information and Communication Technologies"]
 organization = "Mapúa Malayan Colleges Laguna Association for Computing Machinery Student Chapter"
 leadership_experiences = [
