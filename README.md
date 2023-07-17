@@ -16,18 +16,6 @@
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22Engr%22%3A+%22Jayvee+Navarro+Mapote%22%7D;%7B%22Currently%22%3A+%22Full-Duck+Developer%22%7D;%7B%22Majoring+in%22%3A+%22Computer+Engineering%22%7D)](https://git.io/typing-svg)
 
-<p>&nbsp;</p>
-
-## Github Contributions
-![snake gif](https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake.svg)
-
-<p>&nbsp;</p>
-
-## Freelancing Services
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=650&height=110&lines=Mag+ayos+nang+Aircon%2C+Ref%2C+Electricfan%2C+Tv%2C+etc.;Hack+nang+facebook+kapag+nalimutan+mo+password.;Bigas+to+electronics+Mastery+(Level+3);Demotivational+Speaker)](https://git.io/typing-svg)
-
-<p>&nbsp;</p>
 
 ## About Me 🐕🐦🐟🦆
 <p>While a dog runs with unmatched speed, a bird soars with graceful flight, and a fish navigates the depths effortlessly, I draw inspiration from the remarkable adaptability of a duck. Like a duck, I embrace the challenge of bridging diverse domains, leveraging the best of each world.</p>
@@ -60,7 +48,18 @@ currently_learning = ["Cybersecurity", "Crypto", "Aerial Robotics"]
 will_learn = ["Web3"]
 hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"]
 ```
+<p>&nbsp;</p>
 
+## Github Contributions
+![snake gif](https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake.svg)
+
+<p>&nbsp;</p>
+
+## Freelancing Services
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&multiline=true&width=650&height=110&lines=Mag+ayos+nang+Aircon%2C+Ref%2C+Electricfan%2C+Tv%2C+etc.;Hack+nang+facebook+kapag+nalimutan+mo+password.;Bigas+to+electronics+Mastery+(Level+3);Demotivational+Speaker)](https://git.io/typing-svg)
+
+<p>&nbsp;</p>
 
 
 ## Embedded Hardware
