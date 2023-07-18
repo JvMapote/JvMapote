@@ -11,10 +11,16 @@
     <a href="mailto:mapotej@acm.org"><img title="Follow me on Instagram" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p>&nbsp;</p>
+
 
 <!-- Read ME Typing effect https://readme-typing-svg.herokuapp.com/demo/ -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=2196F3&size=22&width=650&lines=%7B%22Engr%22%3A+%22Jayvee+Navarro+Mapote%22%7D;%7B%22Currently%22%3A+%22Full-Duck+Developer%22%7D;%7B%22Majoring+in%22%3A+%22Computer+Engineering%22%7D)](https://git.io/typing-svg)
+
+
+
+## Github Contributions
+<img alt="snake eating my contribution" src="https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake-dark.svg">
+
 
 
 ## About Me 🐕🐦🐟🦆
@@ -48,10 +54,7 @@ currently_learning = ["Cybersecurity", "Crypto", "Aerial Robotics"]
 will_learn = ["Web3"]
 hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"]
 ```
-<p>&nbsp;</p>
 
-## Github Contributions
-<img alt="snake eating my contribution" src="https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake-dark.svg">
 
 <p>&nbsp;</p>
 
