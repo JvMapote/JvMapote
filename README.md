@@ -51,7 +51,7 @@ hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"]
 <p>&nbsp;</p>
 
 ## Github Contributions
-![snake gif](https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake.svg)
+<img alt="snake eating my contribution" src="https://github.com/JvMapote/JvMapote/blob/output/github-contribution-grid-snake-dark.svg">
 
 <p>&nbsp;</p>
 
