@@ -161,6 +161,8 @@ hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"]
 
 <p>&nbsp;</p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JvMapote&label=Profile%20views&color=0e75b6&style=flat" alt="JvMapote" /> </p>
+
 
 
 
