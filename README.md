@@ -52,7 +52,7 @@ fields_of_interests = ["Embedded Systems", "Computer Architecture", "Digital Sys
 technical_background = ["Project Management", "Communication", "Operating Systems", "Network", "Software Engineering"]
 currently_learning = ["Cybersecurity", "Crypto", "Aerial Robotics"]
 will_learn = ["Web3"]
-hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"]
+hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"] 
 ```
 
 
