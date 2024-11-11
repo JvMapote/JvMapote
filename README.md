@@ -24,15 +24,7 @@
 
 
 ## About Me 🐕🐦🐟🦆
-<p>While a dog runs with unmatched speed, a bird soars with graceful flight, and a fish navigates the depths effortlessly, I draw inspiration from the remarkable adaptability of a duck. Like a duck, I embrace the challenge of bridging diverse domains, leveraging the best of each world.</p>
-
-<p>Just as a duck cannot match the running speed of a dog, the flight of a bird, or the swimming prowess of a fish, I recognize that expertise in every aspect is not necessary for transformative change. Instead, I excel in a broad range of skills and technologies, equipped with a comprehensive understanding of digital landscapes and a knack for finding the right solutions.</p>
-
-<p>🔬 Tech Savvy: Proficient in a diverse array of cutting-edge technologies</p>
-<p>🌐 Strategic Vision: Developing and executing plans for transformative change</p>
-<p>💡 Innovation Catalyst: Encouraging out-of-the-box thinking and fostering creativity</p>
-
-<p>By harnessing the adaptability of a duck, I envision a future where collaboration and innovation transcend boundaries. Let's connect and explore how our collaboration can create ripples of transformative change in the digital landscape. Together, we can leverage our diverse talents to navigate the ever-changing currents and soar to new heights✨🚀.</p>
+<p>An engineer with a strong foundation in leadership, dedicated to continuous improvement and delivering data-driven, impactful solutions.</p>
 
 <p>&nbsp;</p>
 
@@ -43,6 +35,8 @@ from_location = "Philippines"
 education = ["Bachelor's in Computer Engineering", "Diploma in Information and Communication Technologies"]
 organization = "Mapúa Malayan Colleges Laguna Association for Computing Machinery Student Chapter"
 leadership_experiences = [
+    ["Executive Alumni President", "Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2024-2025"],
+    ["Executive President", "Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2023-2024"],
     ["Executive President", "Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2022-2023"],
     ["Executive Secretary", "Association for Computing Machinery", "Mapúa Malayan Colleges Laguna", "2021-2022"],
     ["Research and Development Committee Chair", "Junior Association for Computing Machinery", "2019-2020"]
