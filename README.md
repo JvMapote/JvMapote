@@ -23,14 +23,14 @@
 
 
 
-## About Me 🐕🐦🐟🦆
+## About Me 
 <p>An engineer with a strong foundation in leadership, dedicated to continuous improvement and delivering data-driven, impactful solutions.</p>
 
 <p>&nbsp;</p>
 
 ```python
 name = "Jayvee N. Mapote"
-located_in = "Manila"
+located_in = "Makati"
 from_location = "Philippines"
 education = ["Bachelor's in Computer Engineering", "Diploma in Information and Communication Technologies"]
 organization = "Mapúa Malayan Colleges Laguna Association for Computing Machinery Student Chapter"
@@ -45,7 +45,7 @@ fields_of_interests = ["Embedded Systems", "Computer Architecture", "Digital Sys
                        "Artificial Intelligence", "Machine Learning", "Data Science"]
 technical_background = ["Project Management", "Communication", "Operating Systems", "Network", "Software Engineering"]
 currently_learning = ["Cybersecurity", "Crypto", "Aerial Robotics"]
-will_learn = ["Web3"]
+will_learn = ["Web3, DevOps"]
 hobbies = ["Tinkering", "Watching", "Analysis", "Browsing"] 
 ```
 
